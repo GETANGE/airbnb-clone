@@ -1,0 +1,1397 @@
+[
+    {
+        "_id": "10047964",
+        "listing_url": "https://www.airbnb.com/rooms/10047964",
+        "name": "Charming Flat in Downtown Moda",
+        "summary": "Fully furnished 3+1 flat decorated with vintage style. Located at the heart of Moda/Kadıköy, close to seaside and also to the public transportation (tram, metro, ferry, bus stations) 10 minutes walk.",
+        "space": "The apartment is composed of 1 big bedroom with a double-sized bed, a guest room with a double sofa bed, a living room with 2 double sofa beds. It's suitable for a maximum of 6 people. Every bedroom has a balcony overlooking the calm streets of Moda, where you will find relaxation and intimacy, even if at one step from the most vivid Moda's living streets. There's also a private parking area with a remote controller. The apartment is away from the traffic and the most crowded places, good for ensuring quiet and a peaceful rest. The apartment is fully available to guests and is equipped with heating in all bedrooms. In the living room, there is an HD TV and Apple TV. In the kitchen, there are dishwasher, oven, and washing machine, with the respective detergents. You will find fresh water in the fridge and on t",
+        "description": "Fully furnished 3+1 flat decorated with vintage style. Located at the heart of Moda/Kadıköy, close to the seaside and also to the public transportation (tram, metro, ferry, bus stations) 10 minutes walk. The apartment is composed of 1 big bedroom with a double-sized bed, a guest room with a double sofa bed, a living room with 2 double sofa beds. It's suitable for a maximum of 6 people. Every bedroom has a balcony overlooking the calm streets of Moda, where you will find relaxation and intimacy, even if at one step from the most vivid Moda's living streets. There's also a private parking area with a remote controller. The apartment is away from the traffic and the most crowded places, good for ensuring quiet and a peaceful rest. The apartment is fully available to guests and is equipped with heating in all bedrooms. In the living room, there is an HD TV and Apple TV. In the kitchen, there are dishwasher, oven, and washing machine, with the respective detergents. You will find fresh water in the fridge and on t",
+        "neighborhood_overview": "With its diversity Moda-Kadikoy is one of the most colorful neighborhoods of Istanbul. The place is surrounded by lots of cafes, pubs, concert halls, restaurants, and art studios. Being local is wonderful if you're staying here.",
+        "notes": "",
+        "transit": "",
+        "access": "",
+        "interaction": "",
+        "house_rules": "Be and feel like your own home, with total respect and love..this would be wonderful!",
+        "property_type": "House",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "2",
+        "maximum_nights": "1125",
+        "cancellation_policy": "flexible",
+        "last_scraped": {
+        "$date": {
+            "$numberLong": "1550466000000"
+        }
+        },
+        "calendar_last_scraped": {
+        "$date": {
+            "$numberLong": "1550466000000"
+        }
+        },
+        "first_review": {
+        "$date": {
+            "$numberLong": "1459569600000"
+        }
+        },
+        "last_review": {
+        "$date": {
+            "$numberLong": "1459569600000"
+        }
+        },
+        "accommodates": {
+        "$numberInt": "6"
+        },
+        "bedrooms": {
+        "$numberInt": "2"
+        },
+        "beds": {
+        "$numberInt": "6"
+        },
+        "number_of_reviews": {
+        "$numberInt": "1"
+        },
+        "bathrooms": {
+        "$numberDecimal": "1.0"
+        },
+        "amenities": [
+        "TV",
+        "Cable TV",
+        "Internet",
+        "Wifi",
+        "Kitchen",
+        "Free parking on premises",
+        "Pets allowed",
+        "Pets live on this property",
+        "Cat(s)",
+        "Heating",
+        "Family/kid friendly",
+        "Washer",
+        "Essentials",
+        "Shampoo",
+        "24-hour check-in",
+        "Hangers",
+        "Hairdryer",
+        "Iron",
+        "Laptop-friendly workspace"
+        ],
+        "price": {
+        "$numberDecimal": "527.00"
+        },
+        "cleaning_fee": {
+        "$numberDecimal": "211.00"
+        },
+        "extra_people": {
+        "$numberDecimal": "211.00"
+        },
+        "guests_included": {
+        "$numberDecimal": "1"
+        },
+        "images": {
+        "thumbnail_url": "",
+        "medium_url": "",
+        "picture_url": "https://a0.muscache.com/im/pictures/231120b6-e6e5-4514-93cd-53722ac67de1.jpg?aki_policy=large",
+        "xl_picture_url": ""
+        },
+        "host": {
+        "host_id": "1241644",
+        "host_url": "https://www.airbnb.com/users/show/1241644",
+        "host_name": "Zeynep",
+        "host_location": "Istanbul, Istanbul, Turkey",
+        "host_about": "Z.",
+        "host_thumbnail_url": "https://a0.muscache.com/im/users/1241644/profile_pic/1426581715/original.jpg?aki_policy=profile_small",
+        "host_picture_url": "https://a0.muscache.com/im/users/1241644/profile_pic/1426581715/original.jpg?aki_policy=profile_x_medium",
+        "host_neighbourhood": "Moda",
+        "host_is_superhost": false,
+        "host_has_profile_pic": true,
+        "host_identity_verified": true,
+        "host_listings_count": {
+            "$numberInt": "2"
+        },
+        "host_total_listings_count": {
+            "$numberInt": "2"
+        },
+        "host_verifications": [
+            "email",
+            "phone",
+            "facebook",
+            "reviews",
+            "jumio",
+            "government_id"
+        ]
+        },
+        "address": {
+        "street": "Kadıköy, İstanbul, Turkey",
+        "suburb": "Moda",
+        "government_area": "Kadikoy",
+        "market": "Istanbul",
+        "country": "Turkey",
+        "country_code": "TR",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+            {
+                "$numberDouble": "29.03133"
+            },
+            {
+                "$numberDouble": "40.98585"
+            }
+            ],
+            "is_location_exact": true
+        }
+        },
+        "availability": {
+        "availability_30": {
+            "$numberInt": "27"
+        },
+        "availability_60": {
+            "$numberInt": "57"
+        },
+        "availability_90": {
+            "$numberInt": "87"
+        },
+        "availability_365": {
+            "$numberInt": "362"
+        }
+        },
+        "review_scores": {
+        "review_scores_accuracy": {
+            "$numberInt": "10"
+        },
+        "review_scores_cleanliness": {
+            "$numberInt": "10"
+        },
+        "review_scores_checkin": {
+            "$numberInt": "10"
+        },
+        "review_scores_communication": {
+            "$numberInt": "10"
+        },
+        "review_scores_location": {
+            "$numberInt": "10"
+        },
+        "review_scores_value": {
+            "$numberInt": "10"
+        },
+        "review_scores_rating": {
+            "$numberInt": "100"
+        }
+        },
+        "reviews": [
+        {
+            "_id": "68162172",
+            "date": {
+            "$date": {
+                "$numberLong": "1459569600000"
+            }
+            },
+            "listing_id": "10047964",
+            "reviewer_id": "33536670",
+            "reviewer_name": "Mihra",
+            "comments": "Zeynep was a most welcoming and generous host, with a gorgeous, comfortable flat - as advertised! The flat is light and spacious, kitchen well-equipped, bed comfortable (both beds actually), and bathroom clean, with great shower pressure. Zeynep prepared a note with key information about the flat, which was great to have for reference. I especially appreciated the ground coffee and coffee maker. The fact that there was a desk in the house made my stay all the more comfortable - I had a proper place to sit down at my computer.\r\n\r\nIt's clear that Zeynep has put a lot of care into making her flat a home - it's an awesome flat! \r\n\r\nZeynep lives a five min walk to the sea, with a great park along the water front. There are plenty of hip cafes and coffee shops in the neighborhood (Moda), all a short walk from the flat. And it's only a 15 mins walk to the Kadikoy ferry, which offers easy access to the rest of Istanbul."
+        }
+        ]
+    },
+    {
+        "_id": "10051164",
+        "listing_url": "https://www.airbnb.com/rooms/10051164",
+        "name": "Catete's Colonial Big Hause Room B",
+        "summary": "Old floor, entirely reformed, destined to receive people in a very harmonious and welcoming place. Located at Catete's neighborhood, with very easy access to the metro station, a lot of bus lines, next to an excellent trade and things to do around.",
+        "space": "Este quarto está preparado para acomodar confortavelmente quatro pessoas, podendo ainda ser acrescentado um sofá-cama para receber mais um hóspede.",
+        "description": "Old floor, entirely reformed, destined to receive people in a very harmonious and welcoming place. Located at Catete's neighborhood, with very easy access to the metro station, a lot of bus lines, next to an excellent trade and things to do around.",
+        "neighborhood_overview": "A Grande Morada situa-se no Bairro do Catete, histórico bairro ladeado pelo morro de Santa Tereza, pelo bairro da Lapa, pelo Parque do Flamengo e pelo Largo do Machado. Esta localização privilegiada oferece, em seu entorno, além das belas paisagens, acesso à Estação de Metro, a várias linhas de ônibus e a excelente e diversificado comércio, lazer e diversão. É um bairro pequeno e seguro, esteticamente bonito, habitado por pessoas cordiais que se conhecem e convivem cotidianamente, o que pode ser atestado por nós, que aqui moramos há mais de trinta anos.",
+        "notes": "A casa possui um potencial incrível para receber grupos. Os quartos são amplos e comunicáveis.",
+        "transit": "Perto do metrô e várias linhas de ônibus. Acesso a pé para o centro da cidade e para o bairro da Lapa e Santa Tereza.",
+        "access": "O hóspedes poderão acessar espaços compartilhados como sala de TV e estar, terraço, área para refeições.",
+        "interaction": "Sou geógrafa, gosto de arte e cultura. Moro neste endereço (porém em outro espaço, que não o casarão) com meu companheiro Carlos Henrique, que é músico, farmacêutico e acupunturista, meus filhos Pedro, estudante do ensino médio e Estevão estudante de antropologia. Somos todos os três responsáveis pelas hospedagens e manutenção do Casarão. Sejam bem vindos! Estaremos com total disponibilidade para ajudá-los.",
+        "house_rules": "",
+        "property_type": "House",
+        "room_type": "Private room",
+        "bed_type": "Real Bed",
+        "minimum_nights": "2",
+        "maximum_nights": "1125",
+        "cancellation_policy": "strict_14_with_grace_period",
+        "last_scraped": {
+        "$date": {
+            "$numberLong": "1549861200000"
+        }
+        },
+        "calendar_last_scraped": {
+        "$date": {
+            "$numberLong": "1549861200000"
+        }
+        },
+        "first_review": {
+        "$date": {
+            "$numberLong": "1455080400000"
+        }
+        },
+        "last_review": {
+        "$date": {
+            "$numberLong": "1455080400000"
+        }
+        },
+        "accommodates": {
+        "$numberInt": "8"
+        },
+        "bedrooms": {
+        "$numberInt": "1"
+        },
+        "beds": {
+        "$numberInt": "8"
+        },
+        "number_of_reviews": {
+        "$numberInt": "1"
+        },
+        "bathrooms": {
+        "$numberDecimal": "4.0"
+        },
+        "amenities": [
+        "TV",
+        "Cable TV",
+        "Internet",
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Smoking allowed",
+        "Family/kid friendly",
+        "First aid kit",
+        "Fire extinguisher",
+        "Essentials"
+        ],
+        "price": {
+        "$numberDecimal": "250.00"
+        },
+        "security_deposit": {
+        "$numberDecimal": "0.00"
+        },
+        "cleaning_fee": {
+        "$numberDecimal": "0.00"
+        },
+        "extra_people": {
+        "$numberDecimal": "40.00"
+        },
+        "guests_included": {
+        "$numberDecimal": "4"
+        },
+        "images": {
+        "thumbnail_url": "",
+        "medium_url": "",
+        "picture_url": "https://a0.muscache.com/im/pictures/b2119f25-42e1-4770-8072-20de92e65893.jpg?aki_policy=large",
+        "xl_picture_url": ""
+        },
+        "host": {
+        "host_id": "51326285",
+        "host_url": "https://www.airbnb.com/users/show/51326285",
+        "host_name": "Beatriz",
+        "host_location": "Rio de Janeiro, State of Rio de Janeiro, Brazil",
+        "host_about": "",
+        "host_response_time": "within an hour",
+        "host_thumbnail_url": "https://a0.muscache.com/im/pictures/eb09c9cb-bc70-412f-80d9-47ed3ab104f4.jpg?aki_policy=profile_small",
+        "host_picture_url": "https://a0.muscache.com/im/pictures/eb09c9cb-bc70-412f-80d9-47ed3ab104f4.jpg?aki_policy=profile_x_medium",
+        "host_neighbourhood": "Catete",
+        "host_response_rate": {
+            "$numberInt": "80"
+        },
+        "host_is_superhost": false,
+        "host_has_profile_pic": true,
+        "host_identity_verified": true,
+        "host_listings_count": {
+            "$numberInt": "5"
+        },
+        "host_total_listings_count": {
+            "$numberInt": "5"
+        },
+        "host_verifications": [
+            "email",
+            "phone",
+            "facebook",
+            "reviews",
+            "jumio",
+            "government_id"
+        ]
+        },
+        "address": {
+        "street": "Rio de Janeiro, Rio de Janeiro, Brazil",
+        "suburb": "Catete",
+        "government_area": "Catete",
+        "market": "Rio De Janeiro",
+        "country": "Brazil",
+        "country_code": "BR",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+            {
+                "$numberDouble": "-43.18015675229857"
+            },
+            {
+                "$numberDouble": "-22.92638234778768"
+            }
+            ],
+            "is_location_exact": true
+        }
+        },
+        "availability": {
+        "availability_30": {
+            "$numberInt": "10"
+        },
+        "availability_60": {
+            "$numberInt": "10"
+        },
+        "availability_90": {
+            "$numberInt": "21"
+        },
+        "availability_365": {
+            "$numberInt": "296"
+        }
+        },
+        "review_scores": {
+        "review_scores_accuracy": {
+            "$numberInt": "10"
+        },
+        "review_scores_cleanliness": {
+            "$numberInt": "6"
+        },
+        "review_scores_checkin": {
+            "$numberInt": "8"
+        },
+        "review_scores_communication": {
+            "$numberInt": "8"
+        },
+        "review_scores_location": {
+            "$numberInt": "8"
+        },
+        "review_scores_value": {
+            "$numberInt": "8"
+        },
+        "review_scores_rating": {
+            "$numberInt": "80"
+        }
+        },
+        "reviews": [
+        {
+            "_id": "61992538",
+            "date": {
+            "$date": {
+                "$numberLong": "1455080400000"
+            }
+            },
+            "listing_id": "10051164",
+            "reviewer_id": "25802720",
+            "reviewer_name": "Izabella",
+            "comments": "A Beatriz foi bastante atenciosa e respondia as minhas dúvidas muito rapidamente antes da viagem. O bairro do Catete tem uma localização boa, conseguimos ir para a Lapa à pé e também para outros lugares como o aterro e a praia do Flamengo durante o carnaval. A estação de metrô também é perto e tem várias opções de alimentação muito próximas à casa. O layout da casa assemelha-se à um hostel, o quarto que eu fiquei tem tamanho excelente para 4 pessoas e tem ar condicionado, o que faz muita diferença com o calor que está no Rio de Janeiro. Existem 4 banheiros, que são suficientes para o número de pessoas que cabem na casa, entretanto durante todos os dias que passei lá, o banheiro não foi limpo nenhuma vez, por sorte os hóspedes estavam mantendo-o em condições de uso, mas seria importante limpar o banheiro de vez em quando. \r\nOutro ponto importante é que os quartos são ligados por uma porta que não tem fechadura e é bem fina, ou seja, a privacidade não é garantida e o barulho de um quarto pode ser ouvido perfeitamente no outro.\r\nO preço é justo pelo que é oferecido, seria importante apenas melhorar a limpeza e verificar se é possível fechar a comunicação dos quartos."
+        }
+        ]
+    },
+    {
+        "_id": "10057447",
+        "listing_url": "https://www.airbnb.com/rooms/10057447",
+        "name": "Modern Spacious 1 Bedroom Loft",
+        "summary": "Prime location, amazing lighting and no annoying neighbours. Good place to rent if you want a relaxing time in Montreal.",
+        "space": "Lot's of plants and lights. Really great modern bathroom that you will love showering in :) and a kitchen equipped with everything you need to cook a great meal. (we live here)",
+        "description": "Prime location, amazing lighting and no annoying neighbours. Good place to rent if you want a relaxing time in Montreal. Lot's of plants and lights. Really great modern bathroom that you will love showering in :) and a kitchen equipped with everything you need to cook a great meal. (we live here)",
+        "neighborhood_overview": "",
+        "notes": "",
+        "transit": "",
+        "access": "",
+        "interaction": "",
+        "house_rules": "",
+        "property_type": "Apartment",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "1",
+        "maximum_nights": "1125",
+        "cancellation_policy": "flexible",
+        "last_scraped": {
+        "$date": {
+            "$numberLong": "1552276800000"
+        }
+        },
+        "calendar_last_scraped": {
+        "$date": {
+            "$numberLong": "1552276800000"
+        }
+        },
+        "accommodates": {
+        "$numberInt": "4"
+        },
+        "bedrooms": {
+        "$numberInt": "1"
+        },
+        "beds": {
+        "$numberInt": "2"
+        },
+        "number_of_reviews": {
+        "$numberInt": "0"
+        },
+        "bathrooms": {
+        "$numberDecimal": "1.0"
+        },
+        "amenities": [
+        "Internet",
+        "Wifi",
+        "Kitchen",
+        "Heating",
+        "Family/kid friendly",
+        "Washer",
+        "Dryer",
+        "Smoke detector",
+        "First aid kit",
+        "Safety card",
+        "Fire extinguisher",
+        "Essentials",
+        "Shampoo",
+        "24-hour check-in",
+        "Hangers",
+        "Iron",
+        "Laptop friendly workspace"
+        ],
+        "price": {
+        "$numberDecimal": "50.00"
+        },
+        "extra_people": {
+        "$numberDecimal": "31.00"
+        },
+        "guests_included": {
+        "$numberDecimal": "1"
+        },
+        "images": {
+        "thumbnail_url": "",
+        "medium_url": "",
+        "picture_url": "https://a0.muscache.com/im/pictures/9fa69ad8-c9be-45dd-966b-b8f59bdccb2b.jpg?aki_policy=large",
+        "xl_picture_url": ""
+        },
+        "host": {
+        "host_id": "51612949",
+        "host_url": "https://www.airbnb.com/users/show/51612949",
+        "host_name": "Konstantin",
+        "host_location": "Montreal, Quebec, Canada",
+        "host_about": "",
+        "host_thumbnail_url": "https://a0.muscache.com/im/pictures/beb6b50e-0a26-4b29-9837-d68c3eea413f.jpg?aki_policy=profile_small",
+        "host_picture_url": "https://a0.muscache.com/im/pictures/beb6b50e-0a26-4b29-9837-d68c3eea413f.jpg?aki_policy=profile_x_medium",
+        "host_neighbourhood": "Mile End",
+        "host_is_superhost": false,
+        "host_has_profile_pic": true,
+        "host_identity_verified": false,
+        "host_listings_count": {
+            "$numberInt": "1"
+        },
+        "host_total_listings_count": {
+            "$numberInt": "1"
+        },
+        "host_verifications": [
+            "email",
+            "phone",
+            "jumio",
+            "offline_government_id",
+            "selfie",
+            "government_id",
+            "identity_manual"
+        ]
+        },
+        "address": {
+        "street": "Montréal, Québec, Canada",
+        "suburb": "Mile End",
+        "government_area": "Le Plateau-Mont-Royal",
+        "market": "Montreal",
+        "country": "Canada",
+        "country_code": "CA",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+            {
+                "$numberDouble": "-73.59111"
+            },
+            {
+                "$numberDouble": "45.51889"
+            }
+            ],
+            "is_location_exact": true
+        }
+        },
+        "availability": {
+        "availability_30": {
+            "$numberInt": "0"
+        },
+        "availability_60": {
+            "$numberInt": "0"
+        },
+        "availability_90": {
+            "$numberInt": "0"
+        },
+        "availability_365": {
+            "$numberInt": "0"
+        }
+        },
+        "review_scores": {},
+        "reviews": []
+    },
+    {
+        "_id": "10057826",
+        "listing_url": "https://www.airbnb.com/rooms/10057826",
+        "name": "Deluxe Loft Suite",
+        "summary": "Loft Suite Deluxe @ Henry Norman Hotel Located in Greenpoint, Brooklyn and housed in a converted 19th-century warehouse, the Henry Norman Hotel features modern lofts and suites with hardwood floors, antiques and contemporary art.",
+        "space": "This loft unit features a kitchenette and is fully equipped with everything you need for your stay. The Loft Suite Deluxe has an alcove bedroom area with a Queen size bed and a comfortable pull-out sofa in the living room area, which in total can easily sleep up to 4 guests. The loft is equipped with 42\" LCD HD TVs in both the living and bedroom areas with premium cable channels (HBO, Showtime & more). There are hardwood floors throughout and a full bathroom with a shower/tub combination. Sleeps up to 4 guests.",
+        "description": "Loft Suite Deluxe @ Henry Norman Hotel Located in Greenpoint, Brooklyn and housed in a converted 19th-century warehouse, the Henry Norman Hotel features modern lofts and suites with hardwood floors, antiques and contemporary art. This loft unit features a kitchenette and is fully equipped with everything you need for your stay. The Loft Suite Deluxe has an alcove bedroom area with a Queen size bed and a comfortable pull-out sofa in the living room area, which in total can easily sleep up to 4 guests. The loft is equipped with 42\" LCD HD TVs in both the living and bedroom areas with premium cable channels (HBO, Showtime & more). There are hardwood floors throughout and a full bathroom with a shower/tub combination. Sleeps up to 4 guests. Guests will have access to common terraces, lounge area, business center with 2 iMac computers, fitness center with dry sauna and steam shower, and laundry room. Greenpoint is an artsy Brooklyn neighborhood filled with great restaurants, cafes, and shops.",
+        "neighborhood_overview": "Greenpoint is an artsy Brooklyn neighborhood filled with great restaurants, cafes, and shops.",
+        "notes": "",
+        "transit": "",
+        "access": "Guests will have access to common terraces, lounge area, business center with 2 iMac computers, fitness center with a dry sauna and steam shower, and laundry room.",
+        "interaction": "",
+        "house_rules": "Guest must leave a copy of credit card with the front desk for any incidentals/damages with a copy of valid ID. There are no additional charges than what has been paid in advance.",
+        "property_type": "Apartment",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "3",
+        "maximum_nights": "1125",
+        "cancellation_policy": "strict_14_with_grace_period",
+        "last_scraped": {
+        "$date": {
+            "$numberLong": "1551934800000"
+        }
+        },
+        "calendar_last_scraped": {
+        "$date": {
+            "$numberLong": "1551934800000"
+        }
+        },
+        "first_review": {
+        "$date": {
+            "$numberLong": "1451797200000"
+        }
+        },
+        "last_review": {
+        "$date": {
+            "$numberLong": "1518930000000"
+        }
+        },
+        "accommodates": {
+        "$numberInt": "4"
+        },
+        "bedrooms": {
+        "$numberInt": "0"
+        },
+        "beds": {
+        "$numberInt": "2"
+        },
+        "number_of_reviews": {
+        "$numberInt": "5"
+        },
+        "bathrooms": {
+        "$numberDecimal": "1.0"
+        },
+        "amenities": [
+        "TV",
+        "Cable TV",
+        "Internet",
+        "Wifi",
+        "Air conditioning",
+        "Kitchen",
+        "Doorman",
+        "Gym",
+        "Elevator",
+        "Heating",
+        "Family/kid friendly",
+        "Washer",
+        "Dryer",
+        "Smoke detector",
+        "Carbon monoxide detector",
+        "First aid kit",
+        "Fire extinguisher",
+        "Essentials",
+        "Shampoo",
+        "24-hour check-in",
+        "Hangers",
+        "Hair dryer",
+        "Iron"
+        ],
+        "price": {
+        "$numberDecimal": "205.00"
+        },
+        "extra_people": {
+        "$numberDecimal": "0.00"
+        },
+        "guests_included": {
+        "$numberDecimal": "1"
+        },
+        "images": {
+        "thumbnail_url": "",
+        "medium_url": "",
+        "picture_url": "https://a0.muscache.com/im/pictures/40ace1e3-4917-46e5-994f-30a5965f5159.jpg?aki_policy=large",
+        "xl_picture_url": ""
+        },
+        "host": {
+        "host_id": "47554473",
+        "host_url": "https://www.airbnb.com/users/show/47554473",
+        "host_name": "Mae",
+        "host_location": "US",
+        "host_about": "",
+        "host_response_time": "within a few hours",
+        "host_thumbnail_url": "https://a0.muscache.com/im/pictures/c680ce22-d6ec-4b00-8ef3-b5b7fc0d76f2.jpg?aki_policy=profile_small",
+        "host_picture_url": "https://a0.muscache.com/im/pictures/c680ce22-d6ec-4b00-8ef3-b5b7fc0d76f2.jpg?aki_policy=profile_x_medium",
+        "host_neighbourhood": "Greenpoint",
+        "host_response_rate": {
+            "$numberInt": "100"
+        },
+        "host_is_superhost": false,
+        "host_has_profile_pic": true,
+        "host_identity_verified": false,
+        "host_listings_count": {
+            "$numberInt": "13"
+        },
+        "host_total_listings_count": {
+            "$numberInt": "13"
+        },
+        "host_verifications": [
+            "email",
+            "phone",
+            "google",
+            "reviews",
+            "jumio",
+            "government_id"
+        ]
+        },
+        "address": {
+        "street": "Brooklyn, NY, United States",
+        "suburb": "Greenpoint",
+        "government_area": "Greenpoint",
+        "market": "New York",
+        "country": "United States",
+        "country_code": "US",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+            {
+                "$numberDouble": "-73.94472"
+            },
+            {
+                "$numberDouble": "40.72778"
+            }
+            ],
+            "is_location_exact": true
+        }
+        },
+        "availability": {
+        "availability_30": {
+            "$numberInt": "30"
+        },
+        "availability_60": {
+            "$numberInt": "31"
+        },
+        "availability_90": {
+            "$numberInt": "31"
+        },
+        "availability_365": {
+            "$numberInt": "243"
+        }
+        },
+        "review_scores": {
+        "review_scores_accuracy": {
+            "$numberInt": "9"
+        },
+        "review_scores_cleanliness": {
+            "$numberInt": "10"
+        },
+        "review_scores_checkin": {
+            "$numberInt": "10"
+        },
+        "review_scores_communication": {
+            "$numberInt": "8"
+        },
+        "review_scores_location": {
+            "$numberInt": "9"
+        },
+        "review_scores_value": {
+            "$numberInt": "9"
+        },
+        "review_scores_rating": {
+            "$numberInt": "88"
+        }
+        },
+        "reviews": [
+        {
+            "_id": "58665374",
+            "date": {
+            "$date": {
+                "$numberLong": "1451797200000"
+            }
+            },
+            "listing_id": "10057826",
+            "reviewer_id": "22162519",
+            "reviewer_name": "Alex",
+            "comments": "I could not have found a better place to stay in Brooklyn. I have nothing but positive things to say about this place. Definitely recommend staying here and would stay again."
+        },
+        {
+            "_id": "88420503",
+            "date": {
+            "$date": {
+                "$numberLong": "1469332800000"
+            }
+            },
+            "listing_id": "10057826",
+            "reviewer_id": "20282871",
+            "reviewer_name": "Dina",
+            "comments": "My husband, son and I were fortunate enough to have discovered the Henry Norman Hotel for our recent stay in Greenpoint Brooklyn. Even though we booked our room through Airbnb, we were welcome to all the amenities the hotel had to offer. We were pleased from our arrival at the hotel, where the exterior was as pretty as the interior and greeted by Robert whose very pleasant demeanor was refreshing. Each of the staff at the hotel were very professional and accommodating but Robert stood out from the rest. I was unfortunate enough to have left my phone at a nearby shop after returning via the hotel shuttle, when notifying the front desk to see if I had left my phone in the back seat, Robert quickly responded with his assistance in searching for the item, then driving us immediately to the last location while he assured us he would be outside waiting so we would not have to walk back. I did in fact find my phone at that location (thanks to a good Samaritan) and Robert refused to take compensation for his kindness. The only thing I would do differently on our next stay is to spend the extra for the room with the patio, as the view from the hotel is quite nice and the breezes up there were wonderful. We not only will be back to visit the lovely hotel but will gladly recommend it to all who might be visiting the Greenpoint area."
+        },
+        {
+            "_id": "92234102",
+            "date": {
+            "$date": {
+                "$numberLong": "1470628800000"
+            }
+            },
+            "listing_id": "10057826",
+            "reviewer_id": "19466953",
+            "reviewer_name": "Rosana",
+            "comments": "Great place!!"
+        },
+        {
+            "_id": "207168650",
+            "date": {
+            "$date": {
+                "$numberLong": "1509163200000"
+            }
+            },
+            "listing_id": "10057826",
+            "reviewer_id": "95604783",
+            "reviewer_name": "Marie",
+            "comments": "I am disappointed with my trip to the hotel. The room is well & clean but the staff not helpful. Indeed, because of a flight schedule change, I asked the Airbnb host and the welcome desk of the hotel how I could manage my last night cancellation to be refunded. I did exactly what they asked me to do and have been informed two days after that they refused my request for a refund... Despite the policy rules, I found it very dishonest and not correct at all as I had asked them before doing the cancellation on Airbnb and the flight confirmation. Moreover, I felt insulted when they made me leave the welcome desk to go to the basement in order to let other clients of the hotel believe everything is perfect (I was calm and just trying to solve the issue). So to conclude, the room ok but bad experience in this Airbnb that is a hotel!"
+        },
+        {
+            "_id": "236131644",
+            "date": {
+            "$date": {
+                "$numberLong": "1518930000000"
+            }
+            },
+            "listing_id": "10057826",
+            "reviewer_id": "11623469",
+            "reviewer_name": "Adam",
+            "comments": "We rented the suite at the Henry Norman Hotel, and it was lovely."
+        }
+        ]
+    },
+    {
+        "_id": "10059244",
+        "listing_url": "https://www.airbnb.com/rooms/10059244",
+        "name": "Ligne verte - à 15 min de métro du centre-ville.",
+        "summary": "À 30 secondes du métro Joliette. Belle grande cuisine, chambre et salon bien ensoleillé. Wifi et chromecast inclus.",
+        "space": "",
+        "description": "À 30 secondes du métro Joliette. Belle grande cuisine, chambre et salon bien ensoleillé. Wifi et chromecast inclus. Vous avez accès à tout l'appartement. Une amie sera disponible en cas de besoin. L'appartement se trouve à 4 minutes de marche de la promenade Ontario, où on y trouve une multitude de boutiques locales, marchés bio, boucherie, restaurant et parcs. Stationnement dans la rue, à 30 secondes du métro Joliette et 30 secondes des lignes d'autobus.",
+        "neighborhood_overview": "L'appartement se trouve à 4 minutes de marche de la promenade Ontario, où on y trouve une multitude de boutiques locales, marchés bio, boucherie, restaurant et parcs.",
+        "notes": "",
+        "transit": "Stationnement dans la rue, à 30 secondes du métro Joliette et 30 secondes des lignes d'autobus.",
+        "access": "Vous avez accès à tout l'appartement.",
+        "interaction": "Une amie sera disponible en cas de besoin.",
+        "house_rules": "Non-fumeur. Respect des voisins. Respect des biens. Merci! :)",
+        "property_type": "Apartment",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "2",
+        "maximum_nights": "1125",
+        "cancellation_policy": "moderate",
+        "last_scraped": {
+        "$date": {
+            "$numberLong": "1552276800000"
+        }
+        },
+        "calendar_last_scraped": {
+        "$date": {
+            "$numberLong": "1552276800000"
+        }
+        },
+        "accommodates": {
+        "$numberInt": "2"
+        },
+        "bedrooms": {
+        "$numberInt": "0"
+        },
+        "beds": {
+        "$numberInt": "1"
+        },
+        "number_of_reviews": {
+        "$numberInt": "0"
+        },
+        "bathrooms": {
+        "$numberDecimal": "1.0"
+        },
+        "amenities": [
+        "TV",
+        "Internet",
+        "Wifi",
+        "Kitchen",
+        "Free parking on premises",
+        "Heating",
+        "Washer",
+        "Smoke detector",
+        "Essentials",
+        "Shampoo",
+        "Laptop-friendly workspace",
+        "Hot water",
+        "Bed linens"
+        ],
+        "price": {
+        "$numberDecimal": "43.00"
+        },
+        "extra_people": {
+        "$numberDecimal": "12.00"
+        },
+        "guests_included": {
+        "$numberDecimal": "1"
+        },
+        "images": {
+        "thumbnail_url": "",
+        "medium_url": "",
+        "picture_url": "https://a0.muscache.com/im/pictures/af5c069c-ef73-490a-9e47-b48c0ae47c2f.jpg?aki_policy=large",
+        "xl_picture_url": ""
+        },
+        "host": {
+        "host_id": "7140229",
+        "host_url": "https://www.airbnb.com/users/show/7140229",
+        "host_name": "Caro",
+        "host_location": "Montreal, Quebec, Canada",
+        "host_about": "",
+        "host_response_time": "within an hour",
+        "host_thumbnail_url": "https://a0.muscache.com/im/pictures/user/c64773a6-da5f-4c1a-91fe-f17131e4473b.jpg?aki_policy=profile_small",
+        "host_picture_url": "https://a0.muscache.com/im/pictures/user/c64773a6-da5f-4c1a-91fe-f17131e4473b.jpg?aki_policy=profile_x_medium",
+        "host_neighbourhood": "",
+        "host_response_rate": {
+            "$numberInt": "100"
+        },
+        "host_is_superhost": false,
+        "host_has_profile_pic": true,
+        "host_identity_verified": false,
+        "host_listings_count": {
+            "$numberInt": "1"
+        },
+        "host_total_listings_count": {
+            "$numberInt": "1"
+        },
+        "host_verifications": [
+            "email",
+            "phone",
+            "reviews",
+            "jumio",
+            "government_id"
+        ]
+        },
+        "address": {
+        "street": "Montreal, Quebec, Canada",
+        "suburb": "Hochelaga-Maisonneuve",
+        "government_area": "Mercier-Hochelaga-Maisonneuve",
+        "market": "Montreal",
+        "country": "Canada",
+        "country_code": "CA",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+            {
+                "$numberDouble": "-73.54949"
+            },
+            {
+                "$numberDouble": "45.54548"
+            }
+            ],
+            "is_location_exact": false
+        }
+        },
+        "availability": {
+        "availability_30": {
+            "$numberInt": "0"
+        },
+        "availability_60": {
+            "$numberInt": "0"
+        },
+        "availability_90": {
+            "$numberInt": "0"
+        },
+        "availability_365": {
+            "$numberInt": "32"
+        }
+        },
+        "review_scores": {},
+        "reviews": []
+    },
+    {
+        "_id": "10059872",
+        "listing_url": "https://www.airbnb.com/rooms/10059872",
+        "name": "Soho Cozy, Spacious and Convenient",
+        "summary": "Clean, fully furnished, spacious 1 bedroom flat just off the escalator in Mid Levels. 2 minutes from Soho Bar and Restaurants. Located in a quiet alley 1 minute from Sun Yat Sen",
+        "space": "",
+        "description": "Clean, fully furnished, spacious 1 bedroom flat just off the escalator in Mid Levels. 2 minutes from Soho Bar and Restaurants. Located in a quiet alley 1 minute from Sun Yat Sen",
+        "neighborhood_overview": "",
+        "notes": "",
+        "transit": "",
+        "access": "",
+        "interaction": "",
+        "house_rules": "",
+        "property_type": "Apartment",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "4",
+        "maximum_nights": "20",
+        "cancellation_policy": "flexible",
+        "last_scraped": {
+        "$date": {
+            "$numberLong": "1552276800000"
+        }
+        },
+        "calendar_last_scraped": {
+        "$date": {
+            "$numberLong": "1552276800000"
+        }
+        },
+        "first_review": {
+        "$date": {
+            "$numberLong": "1450501200000"
+        }
+        },
+        "last_review": {
+        "$date": {
+            "$numberLong": "1522123200000"
+        }
+        },
+        "accommodates": {
+        "$numberInt": "3"
+        },
+        "bedrooms": {
+        "$numberInt": "1"
+        },
+        "beds": {
+        "$numberInt": "2"
+        },
+        "number_of_reviews": {
+        "$numberInt": "3"
+        },
+        "bathrooms": {
+        "$numberDecimal": "1.0"
+        },
+        "amenities": [
+        "Air conditioning",
+        "Kitchen",
+        "Smoking allowed",
+        "Doorman",
+        "Elevator",
+        "Heating",
+        "Family/kid friendly",
+        "Essentials",
+        "24-hour check-in",
+        "translation missing: en.hosting_amenity_50"
+        ],
+        "price": {
+        "$numberDecimal": "699.00"
+        },
+        "weekly_price": {
+        "$numberDecimal": "5000.00"
+        },
+        "extra_people": {
+        "$numberDecimal": "0.00"
+        },
+        "guests_included": {
+        "$numberDecimal": "1"
+        },
+        "images": {
+        "thumbnail_url": "",
+        "medium_url": "",
+        "picture_url": "https://a0.muscache.com/im/pictures/4533a1dc-6fd8-4167-938d-391c6eebbc19.jpg?aki_policy=large",
+        "xl_picture_url": ""
+        },
+        "host": {
+        "host_id": "51624384",
+        "host_url": "https://www.airbnb.com/users/show/51624384",
+        "host_name": "Giovanni",
+        "host_location": "Hong Kong, Hong Kong",
+        "host_about": "",
+        "host_thumbnail_url": "https://a0.muscache.com/im/pictures/264b82a7-756f-4da8-b607-dc9759e2a10f.jpg?aki_policy=profile_small",
+        "host_picture_url": "https://a0.muscache.com/im/pictures/264b82a7-756f-4da8-b607-dc9759e2a10f.jpg?aki_policy=profile_x_medium",
+        "host_neighbourhood": "Soho",
+        "host_is_superhost": false,
+        "host_has_profile_pic": true,
+        "host_identity_verified": false,
+        "host_listings_count": {
+            "$numberInt": "1"
+        },
+        "host_total_listings_count": {
+            "$numberInt": "1"
+        },
+        "host_verifications": [
+            "email",
+            "phone",
+            "reviews",
+            "jumio",
+            "government_id"
+        ]
+        },
+        "address": {
+        "street": "Hong Kong, Hong Kong Island, Hong Kong",
+        "suburb": "Central & Western District",
+        "government_area": "Central & Western",
+        "market": "Hong Kong",
+        "country": "Hong Kong",
+        "country_code": "HK",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+            {
+                "$numberDouble": "114.15027"
+            },
+            {
+                "$numberDouble": "22.28158"
+            }
+            ],
+            "is_location_exact": true
+        }
+        },
+        "availability": {
+        "availability_30": {
+            "$numberInt": "0"
+        },
+        "availability_60": {
+            "$numberInt": "0"
+        },
+        "availability_90": {
+            "$numberInt": "0"
+        },
+        "availability_365": {
+            "$numberInt": "0"
+        }
+        },
+        "review_scores": {
+        "review_scores_accuracy": {
+            "$numberInt": "10"
+        },
+        "review_scores_cleanliness": {
+            "$numberInt": "10"
+        },
+        "review_scores_checkin": {
+            "$numberInt": "10"
+        },
+        "review_scores_communication": {
+            "$numberInt": "10"
+        },
+        "review_scores_location": {
+            "$numberInt": "10"
+        },
+        "review_scores_value": {
+            "$numberInt": "8"
+        },
+        "review_scores_rating": {
+            "$numberInt": "100"
+        }
+        },
+        "reviews": [
+        {
+            "_id": "56904633",
+            "date": {
+            "$date": {
+                "$numberLong": "1450501200000"
+            }
+            },
+            "listing_id": "10059872",
+            "reviewer_id": "5302612",
+            "reviewer_name": "Octavio",
+            "comments": "The host canceled this reservation 11 days before arrival. This is an automated posting."
+        },
+        {
+            "_id": "223175530",
+            "date": {
+            "$date": {
+                "$numberLong": "1514782800000"
+            }
+            },
+            "listing_id": "10059872",
+            "reviewer_id": "48436743",
+            "reviewer_name": "Ross",
+            "comments": "Giovanni was very helpful and responsive to my questions. This is a great apartment that is very convenient for exploring Hong Kong."
+        },
+        {
+            "_id": "247251577",
+            "date": {
+            "$date": {
+                "$numberLong": "1522123200000"
+            }
+            },
+            "listing_id": "10059872",
+            "reviewer_id": "111288273",
+            "reviewer_name": "Christian",
+            "comments": "The host canceled this reservation 8 days before arrival. This is an automated posting."
+        }
+        ]
+    },
+    {
+        "_id": "10066928",
+        "listing_url": "https://www.airbnb.com/rooms/10066928",
+        "name": "3 chambres au coeur du Plateau",
+        "summary": "Notre appartement comporte 3 chambres avec chacune un lit queen. Nous avons également un salon, une salle de bain avec baignoire, et une cuisine toute équipée, avec laveuse et sécheuse.",
+        "space": "Notre logement est lumineux, plein de vie et chaleureux! Vous disposerez de l'appartement entier avec 3 chambres fermées, chacune avec 1 lit queen size.",
+        "description": "Notre appartement comporte 3 chambres avec chacune un lit queen. Nous avons également un salon, une salle de bain avec baignoire, et une cuisine toute équipée, avec laveuse et sécheuse. Notre logement est lumineux, plein de vie et chaleureux! Vous disposerez de l'appartement entier avec 3 chambres fermées, chacune avec 1 lit queen size. Le logement sera disponible en entier pour votre séjour. N'hésitez pas à m'écrire pour toute demande de renseignement ! L'appartement se situe au coeur du Plateau, donc très central pour toutes vos activités. À 1 min à pied se trouvent bars, restaurants, magasins, épiceries. Le quartier est très vivant et idéal pour découvrir Montréal. L'appartement se situe à égale distance des métros Sherbrooke et Mont-Royal et à proximité de nombreux arrêts d'autobus.",
+        "neighborhood_overview": "L'appartement se situe au coeur du Plateau, donc très central pour toutes vos activités. À 1 min à pied se trouvent bars, restaurants, magasins, épiceries. Le quartier est très vivant et idéal pour découvrir Montréal.",
+        "notes": "",
+        "transit": "L'appartement se situe à égale distance des métros Sherbrooke et Mont-Royal et à proximité de nombreux arrêts d'autobus.",
+        "access": "Le logement sera disponible en entier pour votre séjour.",
+        "interaction": "N'hésitez pas à m'écrire pour toute demande de renseignement !",
+        "house_rules": "Merci de respecter ce lieu de vie.",
+        "property_type": "Apartment",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "1",
+        "maximum_nights": "1125",
+        "cancellation_policy": "flexible",
+        "last_scraped": {
+        "$date": {
+            "$numberLong": "1552276800000"
+        }
+        },
+        "calendar_last_scraped": {
+        "$date": {
+            "$numberLong": "1552276800000"
+        }
+        },
+        "accommodates": {
+        "$numberInt": "6"
+        },
+        "bedrooms": {
+        "$numberInt": "3"
+        },
+        "beds": {
+        "$numberInt": "3"
+        },
+        "number_of_reviews": {
+        "$numberInt": "0"
+        },
+        "bathrooms": {
+        "$numberDecimal": "1.0"
+        },
+        "amenities": [
+        "Internet",
+        "Wifi",
+        "Kitchen",
+        "Heating",
+        "Family/kid friendly",
+        "Washer",
+        "Dryer",
+        "Essentials",
+        "Shampoo",
+        "Hangers",
+        "Hair dryer",
+        "Iron",
+        "Laptop friendly workspace"
+        ],
+        "price": {
+        "$numberDecimal": "140.00"
+        },
+        "extra_people": {
+        "$numberDecimal": "0.00"
+        },
+        "guests_included": {
+        "$numberDecimal": "1"
+        },
+        "images": {
+        "thumbnail_url": "",
+        "medium_url": "",
+        "picture_url": "https://a0.muscache.com/im/pictures/f208bdd7-bdab-4d4d-b529-8e6b1e5a83c1.jpg?aki_policy=large",
+        "xl_picture_url": ""
+        },
+        "host": {
+        "host_id": "9036477",
+        "host_url": "https://www.airbnb.com/users/show/9036477",
+        "host_name": "Margaux",
+        "host_location": "Montreal, Quebec, Canada",
+        "host_about": "",
+        "host_thumbnail_url": "https://a0.muscache.com/im/users/9036477/profile_pic/1425247510/original.jpg?aki_policy=profile_small",
+        "host_picture_url": "https://a0.muscache.com/im/users/9036477/profile_pic/1425247510/original.jpg?aki_policy=profile_x_medium",
+        "host_neighbourhood": "Le Plateau",
+        "host_is_superhost": false,
+        "host_has_profile_pic": true,
+        "host_identity_verified": false,
+        "host_listings_count": {
+            "$numberInt": "2"
+        },
+        "host_total_listings_count": {
+            "$numberInt": "2"
+        },
+        "host_verifications": [
+            "email",
+            "phone",
+            "reviews",
+            "work_email"
+        ]
+        },
+        "address": {
+        "street": "Montréal, Québec, Canada",
+        "suburb": "Le Plateau-Mont-Royal",
+        "government_area": "Le Plateau-Mont-Royal",
+        "market": "Montreal",
+        "country": "Canada",
+        "country_code": "CA",
+        "location": {
+            "type": "Point",
+            "coordinates": [
+            {
+                "$numberDouble": "-73.57383"
+            },
+            {
+                "$numberDouble": "45.52233"
+            }
+            ],
+            "is_location_exact": true
+        }
+        },
+        "availability": {
+        "availability_30": {
+            "$numberInt": "0"
+        },
+        "availability_60": {
+            "$numberInt": "0"
+        },
+        "availability_90": {
+            "$numberInt": "0"
+        },
+        "availability_365": {
+            "$numberInt": "0"
+        }
+        },
+        "review_scores": {},
+        "reviews": []
+    },
+    {
+        "_id": "10069642",
+        "listing_url": "https://www.airbnb.com/rooms/10069642",
+        "name": "Ótimo Apto proximo Parque Olimpico",
+        "summary": "Apartamento próximo ao centro dos Jogos Olímpicos 2016 a 6 Km do Parque Olímpico e próximo a praia. Infraestrutura total de transporte além de shoppings e comércio. Área nobre do Rio de Janeiro.",
+        "space": "",
+        "description": "Apartamento próximo ao centro dos Jogos Olímpicos 2016 a 6 Km do Parque Olímpico e próximo a praia. Infraestrutura total de transporte além de shoppings e comércio. Área nobre do Rio de Janeiro.",
+        "neighborhood_overview": "",
+        "notes": "",
+        "transit": "",
+        "access": "",
+        "interaction": "",
+        "house_rules": "",
+        "property_type": "Apartment",
+        "room_type": "Entire home/apt",
+        "bed_type": "Real Bed",
+        "minimum_nights": "15",
+        "maximum_nights": "20",
+        "cancellation_policy": "strict_14_with_grace_period",
+        "last_scraped": {
+        "$date": {
+            "$numberLong": "1549861200000"
+        }
+        },
+        "calendar_last_scraped": {
+        "$date": {
+            "$numberLong": "1549861200000"
+        }
+        },
+        "accommodates": {
+        "$numberInt": "5"
+        },
+        "bedrooms": {
+        "$numberInt": "2"
+        },
+        "beds": {
+        "$numberInt": "2"
+        },
+        "number_of_reviews": {
+        "$numberInt": "0"
+        },
+        "bathrooms": {
+        "$numberDecimal": "2.0"
+        },
+        "amenities": [
+        "TV",
+        "Cable TV",
+        "Internet",
+        "Wifi",
+        "Air conditioning",
+        "Wheelchair accessible",
+        "Kitchen",
+        "Free parking on premises",
+        "Doorman",
+        "Gym",
+        "Elevator",
+        "Buzzer/wireless intercom",
+        "Family/kid friendly",
+        "Washer",
+        "Essentials",
+        "Hair dryer",
+        "Iron"
+        ],
+        "price": {
+        "$numberDecimal": "858.00"
+        },
+        "security_deposit": {
+        "$numberDecimal": "4476.00"
+        },
+        "cleaning_fee": {
+        "$numberDecimal": "112.00"
+        },
+        "extra_people": {
+        "$numberDecimal": "75.00"
+        },
+        "guests_included": {
+        "$numberDecimal": "1"
+        },
+        "images": {
+        "thumbnail_url": "",
+        "medium_url": "",
+        "picture_url": "https://a0.muscache.com/im/pictures/5b1f4beb-6e06-41f0-970b-044f2f28d957.jpg?aki_policy=large",
+        "xl_picture_url": ""
+        },
+        "host": {
+        "host_id": "51670240",
+        "host_url": "https://www.airbnb.com/users/show/51670240",
+        "host_name": "Jonathan",
+        "host_location": "Resende, Rio de Janeiro, Brazil",
+        "host_about": "",
+        "host_thumbnail_url": "https://a0.muscache.com/im/pictures/9a6839d9-9bea-451b-961d-5965894b9b9a.jpg?aki_policy=profile_small",
+        "host_picture_url": "https://a0.muscache.com/im/pictures/9a6839d9-9bea-451b-961d-5965894b9b9a.jpg?aki_policy=profile_x_medium",
+        "host_neighbourhood": "",
+        "host_is_superhost": false,
+        "host_has_profile_pic": true,
+        "host_identity_verified": false,
+        "host_listings_count": {
+            "$numberInt": "1"
+        },
+        "host_total_listings_count": {
+            "$numberInt": "1"
+        },
+        "host_verifications": ["email", "phone", "jumio", "government_id"],
+        "address": {
+            "street": "Rio de Janeiro, Rio de Janeiro, Brazil",
+            "suburb": "Recreio dos Bandeirantes",
+            "government_area": "Recreio dos Bandeirantes",
+            "market": "Rio De Janeiro",
+            "country": "Brazil",
+            "country_code": "BR",
+            "location": {
+            "type": "Point",
+            "coordinates": [
+                {
+                "$numberDouble": "-43.4311123147628"
+                },
+                {
+                "$numberDouble": "-23.00035792660916"
+                }
+            ],
+            "is_location_exact": false
+            }
+        },
+        "availability": {
+            "availability_30": {
+            "$numberInt": "0"
+            },
+            "availability_60": {
+            "$numberInt": "0"
+            },
+            "availability_90": {
+            "$numberInt": "0"
+            },
+            "availability_365": {
+            "$numberInt": "0"
+            }
+        },
+        "review_scores": {},
+        "reviews": []
+        }
+    }
+]
